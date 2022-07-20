@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="images">
+    <file>list.png</file>
+    <file>table-colums-icon.png</file>
+  </qresource>
+</RCC>
